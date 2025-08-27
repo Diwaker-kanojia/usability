@@ -59,7 +59,7 @@ This project is a static website and requires no server-side setup.
 
 ```
 usability/
-├── asset/            # (Empty Directory - TODO: determine if needed and purpose)
+├── asset/            # (contains all assets)
 ├── index.html         # Main website file
 ├── media.css         # CSS styles for media queries and responsiveness
 └── style.css          # Main stylesheet
