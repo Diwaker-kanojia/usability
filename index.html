@@ -279,5 +279,13 @@
         <a class="hover-link" href="#"><i class="fa-brands fa-twitter"></i></a>
       </div>
     </div>
+    <script>
+      const toggleButton = document.getElementById("nav-toggle");
+      const navLinks = document.getElementById("nav-links");
+
+      toggleButton.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+      });
+    </script>
   </body>
 </html>
