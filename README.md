@@ -3,7 +3,6 @@
 <div align="center">
 
 
-<img src="asset/asset 1.png" alt="img" width="250px">
 
 <div style="display:flex">
 
