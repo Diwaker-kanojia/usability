@@ -1,6 +1,9 @@
 # 🚀 Usability
 
 <div align="center">
+
+<img src="asset/asset 1.png" alt="img" width="250px">
+
 <div style="display:flex">
 
 [![GitHub stars](https://img.shields.io/github/stars/Diwaker-kanojia/usability?style=for-the-badge)](https://github.com/Diwaker-kanojia/usability/stargazers)
